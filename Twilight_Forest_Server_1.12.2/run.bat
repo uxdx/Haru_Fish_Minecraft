@@ -5,7 +5,7 @@ echo 메모리 사용량을 설정해 주세요.
 echo.
 echo.          ┌──────────
 echo.          │
-echo.          ├ 1 : 1GB 
+echo.          ├ 1 : 4GB 
 echo.          │
 echo.          ├ 2 : 2GB
 echo.          │
@@ -24,7 +24,7 @@ if %selection%==3 goto exit
 if %selection% geq 4 goto exception
 
 :1g
-java -Xmx1024M -Xms1024M -jar forge.jar nogui
+java -Xmx4096M -Xms4096M -jar forge.jar nogui
 pause
 goto main
 :2g
