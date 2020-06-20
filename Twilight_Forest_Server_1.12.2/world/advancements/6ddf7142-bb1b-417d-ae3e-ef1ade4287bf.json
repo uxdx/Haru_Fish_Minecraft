@@ -1697,6 +1697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2020-06-13 17:33:31 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2020-05-30 18:52:24 +0900"
@@ -1709,15 +1715,15 @@
     },
     "done": true
   },
-  "twilightforest:alt/treasures/ice_bow": {
-    "criteria": {
-      "bow": "2020-06-06 03:17:08 +0900"
-    },
-    "done": true
-  },
   "twilightforest:alt/treasures/ender_bow": {
     "criteria": {
       "bow": "2020-06-06 03:14:34 +0900"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/ice_bow": {
+    "criteria": {
+      "bow": "2020-06-06 03:17:08 +0900"
     },
     "done": true
   },
@@ -1868,6 +1874,12 @@
   "twilightforest:alt/treasures/foods/any": {
     "criteria": {
       "3": "2020-06-05 23:06:50 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/root": {
+    "criteria": {
+      "hold_manual": "2020-06-13 17:18:24 +0900"
     },
     "done": true
   },
@@ -2254,15 +2266,15 @@
     },
     "done": true
   },
-  "twilightforest:alt/entities/ice_cores": {
-    "criteria": {
-      "0": "2020-06-06 03:02:01 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
       "has_light_blue_wool": "2020-06-06 02:05:31 +0900"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/ice_cores": {
+    "criteria": {
+      "0": "2020-06-06 03:02:01 +0900"
     },
     "done": true
   },
@@ -2287,6 +2299,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-05-31 00:59:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2020-06-13 17:33:31 +0900"
     },
     "done": true
   }
